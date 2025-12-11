@@ -15,3 +15,11 @@ A simple Node.js utility that captures a desktop screenshot, applies basic image
 
 ---
 
+## 📦 Output Example
+
+- **Image:** `processed_screenshot.jpg`
+- **Archive:** `processed_screenshot.zip`
+
+Both are generated automatically every time the script runs.
+
+---
