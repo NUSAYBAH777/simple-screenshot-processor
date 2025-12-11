@@ -50,3 +50,12 @@ Inside `index.js`:
    - Save as JPEG (quality: 60)  
 3. Create a ZIP file using **adm-zip**  
 4. Save both the JPEG and ZIP file to the user’s Desktop  
+
+---
+## 🧰 Requirements
+
+- Node.js v14 or higher  
+- Supported operating systems:
+  - Windows  
+  - macOS  
+  - Linux  
