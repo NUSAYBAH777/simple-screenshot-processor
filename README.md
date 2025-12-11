@@ -14,7 +14,22 @@ A simple Node.js utility that captures a desktop screenshot, applies basic image
 - Automatically saves output to your **Desktop**  
 
 ---
+## 🛠️ Installation
 
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/simple-screenshot-processor.git
+cd simple-screenshot-processor
+```
+## ▶️ Usage
+
+Run the script using Node.js:
+
+```bash
+node index.js
+```
+---
 ## 📦 Output Example
 
 - **Image:** `processed_screenshot.jpg`
