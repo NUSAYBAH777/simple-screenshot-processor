@@ -23,3 +23,15 @@ A simple Node.js utility that captures a desktop screenshot, applies basic image
 Both are generated automatically every time the script runs.
 
 ---
+
+## ⚙️ How It Works
+
+Inside `index.js`:
+
+1. Capture the desktop screenshot  
+2. Process the screenshot using **sharp**  
+   - Convert to **grayscale**  
+   - **Flip vertically**  
+   - Save as JPEG (quality: 60)  
+3. Create a ZIP file using **adm-zip**  
+4. Save both the JPEG and ZIP file to the user’s Desktop  
